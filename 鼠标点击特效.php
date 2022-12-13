@@ -2,11 +2,11 @@
 <!-- 以下是鼠标点击显示爱心花瓣 from93-159 By李凡2022-09-03-->
 <!DOCTYPE html>
 <html lang="en">
-</head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
+<head>
  
 <body>
     <!-- 网页鼠标点击特效（爱心） -->
