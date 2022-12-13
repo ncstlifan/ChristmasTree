@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-<head>
+</head>
  
 <body>
     <!-- 网页鼠标点击特效（爱心） -->
@@ -64,7 +64,6 @@
         }(window, document);
     </script>
 </body>
- 
 </html>
 
 <!-- 以下是鼠标点击显示爱心花瓣 from161-341 By李凡2022-09-03-->
